@@ -1,3 +1,35 @@
+html {
+    scroll-behavior: smooth;
+}
 body {
     background: #E0ABFF;
+}
+div {
+    width: 500px;
+    height: 600px;
+    font-size: 33px;
+    text-align: center;
+    padding: 66px;
+    margin-bottom: 22px;
+}
+.color1 {
+    background-color: #872c68;
+    color: #EBC097;
+    
+}
+.color2 {
+    background-color: #860AC1;
+    color: #5EE2EA;
+}
+.color3 {
+    background-color: #502D88;
+    color: #EBC097;
+}
+.color4 {
+    background-color: #0C36A0;
+    color: #D7AB55;
+}
+.color5 {
+    background-color: #332956;
+    color: #64A5CC;
 }

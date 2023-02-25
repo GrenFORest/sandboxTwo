@@ -5,11 +5,8 @@ function getSum(a,b) {
     let max = Math.max(a,b)
     let min = Math.min(a,b)
     let sum = 0
+    return (max-min+1) * (max+min) / 2;
 
-    for(let i=min; i<max; i++){
-        sum +=i;
-    }
-    return sum
 }
 
 console.log(getSum(7,7));
