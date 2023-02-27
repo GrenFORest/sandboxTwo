@@ -12,6 +12,7 @@ div {
     margin-bottom: 22px;
 }
 .color1 {
+    height: auto;
     background-color: #872c68;
     color: #EBC097;
     
