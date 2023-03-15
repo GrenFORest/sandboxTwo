@@ -2,8 +2,8 @@
 //Find the Length of a String
 
 let lastNameLength = 0;
-const lastName = "Lovelace";
+const lastName = "LovelaceeeXYZ";
 
 lastNameLength = lastName.length;
 
-console.log()
+console.log(lastName.length);
